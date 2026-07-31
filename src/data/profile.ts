@@ -66,13 +66,13 @@ export const profile = {
   objective:
     "To become a skilled software engineer who creates high-quality web applications using modern technologies while continuously learning and contributing to impactful projects.",
   contacts: {
-    email: "",
-    phone: "",
-    github: "",
-    linkedin: "",
-    portfolio: "",
-    x: "",
-    discord: "",
+    email: "kayxduke07@gmail.com",
+    phone: "+233209657851",
+    github: "kayxduke",
+    linkedin: "nana kay",
+    portfolio: "kayxduke",
+    x: "nana_kay541",
+    discord: "Dukay",
   },
   interests: [
     "Web Development",
