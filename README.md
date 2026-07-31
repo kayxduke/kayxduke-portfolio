@@ -10,9 +10,6 @@ npm install
 npm run dev
 ```
 
-## Customize
-
-Edit contact links and content in `src/data/profile.ts`.
 
 ## Note
 
