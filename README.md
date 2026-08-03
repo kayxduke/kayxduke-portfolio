@@ -11,6 +11,4 @@ npm run dev
 ```
 
 
-## Note
 
-This project lives on `D:\` because the C: drive was out of free space.
